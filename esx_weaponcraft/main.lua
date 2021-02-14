@@ -2,7 +2,7 @@ local display = false
 
 wafflronfig = {
 	items = {
-	  {item="Switchblade", cost="2 Aluminium, 1 Spring", aluminium=2},
+	  {item="Switchblade", cost="2 Aluminium, 1 Spring"},
 	  {item="molotov", cost="1 Cloth, 1 Bottle, 1 Lighter Fluid"},
 	  {item="lockpick", cost="3 Plastic, 1 Aluminium"}
 	}
